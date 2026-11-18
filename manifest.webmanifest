@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "EstudaAI",
+  "short_name": "EstudaAI",
+  "description": "Seu assistente inteligente de estudos",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fb",
+  "theme_color": "#6c63ff",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

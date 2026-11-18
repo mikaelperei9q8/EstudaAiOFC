@@ -1,0 +1,13 @@
+{
+  "name": "estudaai-servidor",
+  "version": "1.0.0",
+  "description": "Servidor intermediário do EstudaAI: guarda as chaves e troca do Claude para o GPT automaticamente",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
